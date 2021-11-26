@@ -25,7 +25,7 @@ print(b)
 a = input("Masukan Youtube ID : ")
 
 transcript = YouTubeTranscriptApi.get_transcript(a)
-
+print()
 animation = ["[■□□□□□□□□□]","[■■□□□□□□□□]", "[■■■□□□□□□□]", "[■■■■□□□□□□]", "[■■■■■□□□□□]", "[■■■■■■□□□□]", "[■■■■■■■□□□]", "[■■■■■■■■□□]", "[■■■■■■■■■□]", "[■■■■■■■■■■]"]
 
 for i in range(len(animation)):

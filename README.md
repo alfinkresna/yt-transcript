@@ -1,6 +1,6 @@
 # yt-transcript
 Youtube Transcript Text
 
-Cara Penggunaan
+Cara Penggunaan :
 
 ```python3 yt.py```

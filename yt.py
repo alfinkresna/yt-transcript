@@ -20,7 +20,7 @@ yt-transcript
 
 Youtube Transcript
 
-alfindo
+Created by Alfin
 """
 print(b)
 
